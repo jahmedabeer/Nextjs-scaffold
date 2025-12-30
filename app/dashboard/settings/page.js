@@ -1,4 +1,10 @@
+import Button from "@/app/components/Button";
+
 export default function Settings() {
-console.log("Settings Page Rendered");
-  return <h1 className="text-4xl">Settings page</h1>
+  return (
+    <>
+      <h1 className="text-4xl">Settings page</h1>
+      <Button>Go to analytics page!</Button>
+    </>
+  )
 }
