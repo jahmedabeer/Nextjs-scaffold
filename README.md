@@ -12,3 +12,8 @@ Example:
 - File: `page.js` (inside that folder)
 - URL: `/dashboard/settings`
 - Result: The code in `page.js` displays at that URL
+
+## What Next.js Can Do
+
+- **Server-side routing:** Page loads from the server (Server side rendering by default)
+- **Client-side routing:** Page loads in the browser (no server reload)
